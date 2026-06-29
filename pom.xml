@@ -12,8 +12,8 @@
 
     <modules>
         <module>common-proto</module>
-        <module>service-b</module>
-        <module>service-a</module>
+        <module>user-service</module>
+        <module>user-gateway</module>
     </modules>
 
     <properties>
